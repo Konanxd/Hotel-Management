@@ -6,4 +6,4 @@ Hotel Management Software with Java GUI and SQL including:
 - List of active loadger
 - Receipt Bill
 
-Note: This project is academic purposely.
+Note: This project is academic purpose.
