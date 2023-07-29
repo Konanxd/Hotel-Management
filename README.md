@@ -1,6 +1,6 @@
 # Hotel-Management
 Hotel Management Software with Java GUI and SQL
-List of feature:
+\nList of feature:
 - Check-in
 - Auto Check-out (based on the check-out date)
 - Manage room
